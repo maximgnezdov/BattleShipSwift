@@ -1,1 +1,1 @@
-# MastermindSwift
+# BattleShipSwift
